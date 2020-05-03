@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfca3074-204d-4c4d-9b7f-55ab53eb7f61" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bDsH1j5tSy0gA5h6tXhLgvoQ8X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.javacourse.studentorder.dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentOrderDaoImplTest.saveStudentOrderError">
+    <configuration name="DictionaryDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.DictionaryDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryDaoImplTest.testArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.DictionaryDaoImplTest" />
+      <option name="METHOD_NAME" value="testArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryDaoImplTest.testStreet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.DictionaryDaoImplTest" />
+      <option name="METHOD_NAME" value="testStreet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentOrderDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.StudentOrderDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentOrderDaoImplTest.saveStudentOrderError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.StudentOrderDaoImplTest" />
+      <option name="METHOD_NAME" value="saveStudentOrderError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentOrderDaoImplTest.saveStudentOrderError" />
+        <item itemvalue="JUnit.StudentOrderDaoImplTest" />
+        <item itemvalue="JUnit.DictionaryDaoImplTest.testStreet" />
+        <item itemvalue="JUnit.DictionaryDaoImplTest" />
+        <item itemvalue="JUnit.DictionaryDaoImplTest.testArea" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfca3074-204d-4c4d-9b7f-55ab53eb7f61" name="Default Changelist" comment="" />
+      <created>1588177906952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588177906952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="32" key="#com.intellij.ide.util.MemberChooser" timestamp="1588416641332">
+      <screen x="0" y="0" width="1280" height="616" />
+    </state>
+    <state x="386" y="32" key="#com.intellij.ide.util.MemberChooser/0.0.1280.616@0.0.1280.616" timestamp="1588416641332" />
+    <state width="1238" height="126" key="GridCell.Tab.0.bottom" timestamp="1588429196200">
+      <screen x="0" y="23" width="1280" height="593" />
+    </state>
+    <state width="1238" height="171" key="GridCell.Tab.0.bottom/0.0.1280.615@0.0.1280.615" timestamp="1588262307059" />
+    <state width="1238" height="171" key="GridCell.Tab.0.bottom/0.0.1280.616@0.0.1280.616" timestamp="1588417024036" />
+    <state width="1238" height="126" key="GridCell.Tab.0.bottom/0.23.1280.593@0.23.1280.593" timestamp="1588429196200" />
+    <state width="1238" height="126" key="GridCell.Tab.0.center" timestamp="1588429196197">
+      <screen x="0" y="23" width="1280" height="593" />
+    </state>
+    <state width="1238" height="171" key="GridCell.Tab.0.center/0.0.1280.615@0.0.1280.615" timestamp="1588262307056" />
+    <state width="1238" height="171" key="GridCell.Tab.0.center/0.0.1280.616@0.0.1280.616" timestamp="1588417024033" />
+    <state width="1238" height="126" key="GridCell.Tab.0.center/0.23.1280.593@0.23.1280.593" timestamp="1588429196197" />
+    <state width="1238" height="126" key="GridCell.Tab.0.left" timestamp="1588429196196">
+      <screen x="0" y="23" width="1280" height="593" />
+    </state>
+    <state width="1238" height="171" key="GridCell.Tab.0.left/0.0.1280.615@0.0.1280.615" timestamp="1588262307051" />
+    <state width="1238" height="171" key="GridCell.Tab.0.left/0.0.1280.616@0.0.1280.616" timestamp="1588417024021" />
+    <state width="1238" height="126" key="GridCell.Tab.0.left/0.23.1280.593@0.23.1280.593" timestamp="1588429196196" />
+    <state width="1238" height="126" key="GridCell.Tab.0.right" timestamp="1588429196199">
+      <screen x="0" y="23" width="1280" height="593" />
+    </state>
+    <state width="1238" height="171" key="GridCell.Tab.0.right/0.0.1280.615@0.0.1280.615" timestamp="1588262307058" />
+    <state width="1238" height="171" key="GridCell.Tab.0.right/0.0.1280.616@0.0.1280.616" timestamp="1588417024035" />
+    <state width="1238" height="126" key="GridCell.Tab.0.right/0.23.1280.593@0.23.1280.593" timestamp="1588429196199" />
+    <state x="386" y="72" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588409938263">
+      <screen x="0" y="0" width="1280" height="616" />
+    </state>
+    <state x="386" y="72" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.615@0.0.1280.615" timestamp="1588259040815" />
+    <state x="386" y="72" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.616@0.0.1280.616" timestamp="1588409938263" />
+    <state x="34" y="23" width="1212" height="592" key="new project wizard" timestamp="1588427851561">
+      <screen x="0" y="23" width="1280" height="592" />
+    </state>
+    <state x="34" y="23" width="1212" height="592" key="new project wizard/0.23.1280.592@0.23.1280.592" timestamp="1588427851561" />
+  </component>
+</project>
