@@ -1,2 +1,5 @@
+/Users/user/IdeaProjects/student-order/src/test/java/edu/javacourse/studentorder/dao/DBInit.java
 /Users/user/IdeaProjects/student-order/src/test/java/edu/javacourse/studentorder/dao/SimpleRunner.java
 /Users/user/IdeaProjects/student-order/src/test/java/edu/javacourse/studentorder/dao/DictionaryDaoImplTest.java
+/Users/user/IdeaProjects/student-order/src/test/java/edu/javacourse/studentorder/dao/StudentOrderDaoImplTest.java
+/Users/user/IdeaProjects/student-order/src/test/java/edu/javacourse/studentorder/validator/register/FakeCityRegisterChecker.java

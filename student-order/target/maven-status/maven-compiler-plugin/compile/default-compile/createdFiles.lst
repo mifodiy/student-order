@@ -1,3 +1,4 @@
+edu/javacourse/studentorder/util/LocalDateAdapter.class
 edu/javacourse/studentorder/domain/RegisterOffice.class
 edu/javacourse/studentorder/domain/student/AnswerStudent.class
 edu/javacourse/studentorder/domain/Adult.class
@@ -10,6 +11,7 @@ edu/javacourse/studentorder/domain/wedding/AnswerWedding.class
 edu/javacourse/studentorder/domain/StudentOrderStatus.class
 edu/javacourse/studentorder/domain/Child.class
 edu/javacourse/studentorder/domain/register/AnswerCityRegisterItem$CityStatus.class
+edu/javacourse/studentorder/domain/register/CityRegisterRequest.class
 edu/javacourse/studentorder/SaveStudentOrder.class
 edu/javacourse/studentorder/domain/register/AnswerCityRegister.class
 edu/javacourse/studentorder/dao/DictionaryDao.class
@@ -24,7 +26,7 @@ edu/javacourse/studentorder/mail/MailSender.class
 edu/javacourse/studentorder/domain/PassportOffice.class
 edu/javacourse/studentorder/domain/register/AnswerCityRegisterItem.class
 edu/javacourse/studentorder/domain/register/CityRegisterResponse.class
-edu/javacourse/studentorder/exception/TransportException.class
+edu/javacourse/studentorder/dao/ConnectionBuilder.class
 edu/javacourse/studentorder/validator/ChildrenValidator.class
 edu/javacourse/studentorder/validator/WeddingValidator.class
 edu/javacourse/studentorder/domain/children/AnswerChildren.class
@@ -34,4 +36,3 @@ edu/javacourse/studentorder/validator/StudentValidator.class
 edu/javacourse/studentorder/domain/Person.class
 edu/javacourse/studentorder/domain/register/AnswerCityRegisterItem$CityError.class
 edu/javacourse/studentorder/validator/register/CityRegisterChecker.class
-edu/javacourse/studentorder/validator/register/FakeCityRegisterChecker.class
