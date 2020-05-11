@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfca3074-204d-4c4d-9b7f-55ab53eb7f61" name="Default Changelist" comment="" />
+    <list default="true" id="cfca3074-204d-4c4d-9b7f-55ab53eb7f61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/register/CityRegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/util/LocalDateAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/register/CityRegisterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/register/CityRegisterResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/CityRegisterValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/CityRegisterValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/register/FakeCityRegisterChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/studentorder/validator/register/FakeCityRegisterChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/register/RealCityRegisterChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/register/RealCityRegisterChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/javacourse/studentorder/dao/StudentOrderDaoImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/studentorder/dao/StudentOrderDaoImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/domain/register/CityRegisterResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/domain/register/CityRegisterResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/validator/CityRegisterValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/validator/CityRegisterValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/validator/register/FakeCityRegisterChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/validator/register/RealCityRegisterChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/validator/register/RealCityRegisterChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/logfile_test.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/logfile_test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/javacourse/studentorder/dao/StudentOrderDaoImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/javacourse/studentorder/dao/StudentOrderDaoImplTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +31,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +42,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1bDsH1j5tSy0gA5h6tXhLgvoQ8X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,43 +54,29 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="edu.javacourse.studentorder.dao" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.javacourse.studentorder.validator.register" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StudentOrderDaoImplTest.saveStudentOrderError">
-    <configuration name="DictionaryDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.StudentOrderValidator">
+    <configuration name="StudentOrderValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.StudentOrderValidator" />
       <module name="student-order" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
+          <option name="PATTERN" value="edu.javacourse.studentorder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
-      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.DictionaryDaoImplTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DictionaryDaoImplTest.testArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="student-order" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
-      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.DictionaryDaoImplTest" />
-      <option name="METHOD_NAME" value="testArea" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,6 +112,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentOrderDaoImplTest.saveStudentOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.StudentOrderDaoImplTest" />
+      <option name="METHOD_NAME" value="saveStudentOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentOrderDaoImplTest.saveStudentOrderError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="student-order" />
       <extension name="coverage">
@@ -122,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StudentOrderDaoImplTest.saveStudentOrderError" />
+        <item itemvalue="Application.StudentOrderValidator" />
+        <item itemvalue="JUnit.StudentOrderDaoImplTest.saveStudentOrder" />
         <item itemvalue="JUnit.StudentOrderDaoImplTest" />
+        <item itemvalue="JUnit.StudentOrderDaoImplTest.saveStudentOrderError" />
         <item itemvalue="JUnit.DictionaryDaoImplTest.testStreet" />
-        <item itemvalue="JUnit.DictionaryDaoImplTest" />
-        <item itemvalue="JUnit.DictionaryDaoImplTest.testArea" />
       </list>
     </recent_temporary>
   </component>
@@ -144,34 +168,63 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="386" y="32" key="#com.intellij.ide.util.MemberChooser" timestamp="1588416641332">
-      <screen x="0" y="0" width="1280" height="616" />
+    <state x="386" y="23" key="#com.intellij.ide.util.MemberChooser" timestamp="1589209525586">
+      <screen x="0" y="23" width="1280" height="592" />
     </state>
     <state x="386" y="32" key="#com.intellij.ide.util.MemberChooser/0.0.1280.616@0.0.1280.616" timestamp="1588416641332" />
-    <state width="1238" height="126" key="GridCell.Tab.0.bottom" timestamp="1588429196200">
+    <state x="386" y="23" key="#com.intellij.ide.util.MemberChooser/0.23.1280.592@0.23.1280.592" timestamp="1589209525586" />
+    <state x="346" y="184" width="588" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589209907316">
+      <screen x="0" y="23" width="1280" height="592" />
+    </state>
+    <state x="346" y="184" width="588" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.592@0.23.1280.592" timestamp="1589209907316" />
+    <state width="1238" height="170" key="GridCell.Tab.0.bottom" timestamp="1589215963577">
       <screen x="0" y="23" width="1280" height="593" />
     </state>
     <state width="1238" height="171" key="GridCell.Tab.0.bottom/0.0.1280.615@0.0.1280.615" timestamp="1588262307059" />
     <state width="1238" height="171" key="GridCell.Tab.0.bottom/0.0.1280.616@0.0.1280.616" timestamp="1588417024036" />
-    <state width="1238" height="126" key="GridCell.Tab.0.bottom/0.23.1280.593@0.23.1280.593" timestamp="1588429196200" />
-    <state width="1238" height="126" key="GridCell.Tab.0.center" timestamp="1588429196197">
+    <state width="1238" height="170" key="GridCell.Tab.0.bottom/0.23.1280.593@0.23.1280.593" timestamp="1589215963577" />
+    <state width="1238" height="170" key="GridCell.Tab.0.bottom/0.23.1280.598@0.23.1280.598" timestamp="1589212108835" />
+    <state width="1238" height="170" key="GridCell.Tab.0.center" timestamp="1589215963576">
       <screen x="0" y="23" width="1280" height="593" />
     </state>
     <state width="1238" height="171" key="GridCell.Tab.0.center/0.0.1280.615@0.0.1280.615" timestamp="1588262307056" />
     <state width="1238" height="171" key="GridCell.Tab.0.center/0.0.1280.616@0.0.1280.616" timestamp="1588417024033" />
-    <state width="1238" height="126" key="GridCell.Tab.0.center/0.23.1280.593@0.23.1280.593" timestamp="1588429196197" />
-    <state width="1238" height="126" key="GridCell.Tab.0.left" timestamp="1588429196196">
+    <state width="1238" height="170" key="GridCell.Tab.0.center/0.23.1280.593@0.23.1280.593" timestamp="1589215963576" />
+    <state width="1238" height="170" key="GridCell.Tab.0.center/0.23.1280.598@0.23.1280.598" timestamp="1589212108834" />
+    <state width="1238" height="170" key="GridCell.Tab.0.left" timestamp="1589215963576">
       <screen x="0" y="23" width="1280" height="593" />
     </state>
     <state width="1238" height="171" key="GridCell.Tab.0.left/0.0.1280.615@0.0.1280.615" timestamp="1588262307051" />
     <state width="1238" height="171" key="GridCell.Tab.0.left/0.0.1280.616@0.0.1280.616" timestamp="1588417024021" />
-    <state width="1238" height="126" key="GridCell.Tab.0.left/0.23.1280.593@0.23.1280.593" timestamp="1588429196196" />
-    <state width="1238" height="126" key="GridCell.Tab.0.right" timestamp="1588429196199">
+    <state width="1238" height="170" key="GridCell.Tab.0.left/0.23.1280.593@0.23.1280.593" timestamp="1589215963576" />
+    <state width="1238" height="170" key="GridCell.Tab.0.left/0.23.1280.598@0.23.1280.598" timestamp="1589212108833" />
+    <state width="1238" height="170" key="GridCell.Tab.0.right" timestamp="1589215963576">
       <screen x="0" y="23" width="1280" height="593" />
     </state>
     <state width="1238" height="171" key="GridCell.Tab.0.right/0.0.1280.615@0.0.1280.615" timestamp="1588262307058" />
     <state width="1238" height="171" key="GridCell.Tab.0.right/0.0.1280.616@0.0.1280.616" timestamp="1588417024035" />
-    <state width="1238" height="126" key="GridCell.Tab.0.right/0.23.1280.593@0.23.1280.593" timestamp="1588429196199" />
+    <state width="1238" height="170" key="GridCell.Tab.0.right/0.23.1280.593@0.23.1280.593" timestamp="1589215963576" />
+    <state width="1238" height="170" key="GridCell.Tab.0.right/0.23.1280.598@0.23.1280.598" timestamp="1589212108834" />
+    <state width="1238" height="170" key="GridCell.Tab.1.bottom" timestamp="1589215972160">
+      <screen x="0" y="23" width="1280" height="593" />
+    </state>
+    <state width="1238" height="170" key="GridCell.Tab.1.bottom/0.23.1280.593@0.23.1280.593" timestamp="1589215972160" />
+    <state width="1238" height="170" key="GridCell.Tab.1.bottom/0.23.1280.598@0.23.1280.598" timestamp="1589212116685" />
+    <state width="1238" height="170" key="GridCell.Tab.1.center" timestamp="1589215972153">
+      <screen x="0" y="23" width="1280" height="593" />
+    </state>
+    <state width="1238" height="170" key="GridCell.Tab.1.center/0.23.1280.593@0.23.1280.593" timestamp="1589215972153" />
+    <state width="1238" height="170" key="GridCell.Tab.1.center/0.23.1280.598@0.23.1280.598" timestamp="1589212116683" />
+    <state width="1238" height="170" key="GridCell.Tab.1.left" timestamp="1589215972152">
+      <screen x="0" y="23" width="1280" height="593" />
+    </state>
+    <state width="1238" height="170" key="GridCell.Tab.1.left/0.23.1280.593@0.23.1280.593" timestamp="1589215972152" />
+    <state width="1238" height="170" key="GridCell.Tab.1.left/0.23.1280.598@0.23.1280.598" timestamp="1589212116682" />
+    <state width="1238" height="170" key="GridCell.Tab.1.right" timestamp="1589215972156">
+      <screen x="0" y="23" width="1280" height="593" />
+    </state>
+    <state width="1238" height="170" key="GridCell.Tab.1.right/0.23.1280.593@0.23.1280.593" timestamp="1589215972156" />
+    <state width="1238" height="170" key="GridCell.Tab.1.right/0.23.1280.598@0.23.1280.598" timestamp="1589212116684" />
     <state x="386" y="72" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588409938263">
       <screen x="0" y="0" width="1280" height="616" />
     </state>
@@ -181,5 +234,16 @@
       <screen x="0" y="23" width="1280" height="592" />
     </state>
     <state x="34" y="23" width="1212" height="592" key="new project wizard/0.23.1280.592@0.23.1280.592" timestamp="1588427851561" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/register/RealCityRegisterChecker.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
